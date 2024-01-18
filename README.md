@@ -1,5 +1,9 @@
 # Chat Time
 
+<p align="center">
+  <img src="frontend/src/assets/timechat.png" alt="Alt Text" width="120" height="120">
+</p>
+
 Bem-vindo ao Chat Time, um projeto de chat que proporciona uma experiência única. Abaixo, apresentam-se algumas características essenciais do projeto:
 
 ## Visão Geral
